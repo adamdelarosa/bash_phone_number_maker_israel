@@ -1,7 +1,7 @@
 # bash Phone Number Maker, for israel, but you can modify :)
 
 This script will use 'crunch'.
-You must install Crunch to use it, it's pre installed tool for password in Kali Linux.
+You must install Crunch to use it. it's pre installed tool for password in Kali Linux.
 
 The numbers can be found here:
 
